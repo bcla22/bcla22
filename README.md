@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out [my portfolio site](https://benclausi.com?ref=github_profile_repo) for some of my latest work and to get in touch. 
+
 <!--
 **bcla22/bcla22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
